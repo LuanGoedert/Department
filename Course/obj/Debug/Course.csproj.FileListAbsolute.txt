@@ -1,0 +1,7 @@
+C:\Users\luan_\source\repos\Course\Course\bin\Debug\Course.exe.config
+C:\Users\luan_\source\repos\Course\Course\bin\Debug\Course.exe
+C:\Users\luan_\source\repos\Course\Course\bin\Debug\Course.pdb
+C:\Users\luan_\source\repos\Course\Course\obj\Debug\Course.csprojAssemblyReference.cache
+C:\Users\luan_\source\repos\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\Users\luan_\source\repos\Course\Course\obj\Debug\Course.exe
+C:\Users\luan_\source\repos\Course\Course\obj\Debug\Course.pdb
